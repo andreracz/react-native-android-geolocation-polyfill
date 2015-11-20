@@ -1,0 +1,20 @@
+{
+  "name": "react-native-android-geolocation-polyfill",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/andreracz/react-native-android-geolocation-polyfill.git"
+  },
+  "version": "0.0.1",
+  "description": "Polyfill for react-native geolocation (while the official one is not provided)",
+  "author": "Andre Racz",
+  "nativePackage": true,
+  "keywords": [
+    "react-native",
+    "react",
+    "native",
+    "geolocation",
+    "gps",
+    "android",
+    "polyfill"
+  ]
+}
